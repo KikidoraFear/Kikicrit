@@ -1,0 +1,7 @@
+## Interface: 11200
+## Title: Kikicrit1
+## Author: Kikidora
+## Notes: plays sounds when you crit
+## Version: 1.0
+
+Kikicrit.lua
