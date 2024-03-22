@@ -2,6 +2,6 @@
 ## Title: Kikicrit1
 ## Author: Kikidora
 ## Notes: plays sounds when you crit
-## Version: 1.0
+## Version: 1.1
 
 Kikicrit.lua
